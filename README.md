@@ -1,7 +1,7 @@
 ﻿# SYNAESTHESIA
 ## VR Sound Visualizer for Meta Quest
 
-![SYNAESTHESIA](Assets/Docs/Synasthesia_2.png)
+![SYNAESTHESIA Screenshot](Assets/Docs/screenshot.png)
 
 ### Features
 - VR-native, world-space UI for playback (play/pause/next/loop/mute/settings, etc.)
@@ -59,5 +59,5 @@ Build to Quest: first launch will show the Android mic prompt—allow it.
 - First mic use → Android prompt → Allow.
 
 ### Demo
-[![Watch the demo](Assets/Docs/Synasthesia_2.png)](Assets/Docs/copy_2FD6CD2A-0B09-4F3A-95BE-4CF0491170C9.mov)
+<video src="Assets/Docs/demo.mp4" controls playsinline muted width="900"></video>
 
