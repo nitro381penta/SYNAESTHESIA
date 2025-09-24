@@ -59,8 +59,5 @@ Build to Quest: first launch will show the Android mic prompt—allow it.
 - First mic use → Android prompt → Allow.
 
 ### Demo
-<video src="Assets/Docs/copy_2FD6CD2A-0B09-4F3A-95BE-4CF0491170C9.mov"
-       controls
-       muted
-       playsinline
-       width="840"></video>
+[![Watch the demo](Assets/Docs/Synasthesia_2.png)](Assets/Docs/copy_2FD6CD2A-0B09-4F3A-95BE-4CF0491170C9.mov)
+
