@@ -1,0 +1,53 @@
+@'
+# --- Unity generated caches ---
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+UserSettings/
+.vs/
+.idea/
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+
+# Unity Bee/IL2CPP artifacts
+**/Bee/
+**/artifacts/
+**/DerivedData/
+
+# Recorder / Captures
+[Cc]aptures/
+[Rr]ecordings/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+*.code-workspace
+
+# Android exports
+.gradle/
+*.apk
+*.aab
+*.obb
+
+# TMP cache
+Assets/TextMesh Pro/**/Resources/Font Assets/Cache.meta
+Assets/TextMesh Pro/**/Resources/Font Assets/Cache/
+
+# Addressables cache
+ServerData/
+Assets/AddressableAssetsData/*/AssetGroups/*_builderInputDefinitions.bin
+Assets/AddressableAssetsData/*/addressables_content_state.bin
+'@ | Set-Content -Encoding utf8 .gitignore
