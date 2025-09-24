@@ -1,0 +1,29 @@
+fileFormatVersion: 2
+guid: 6fdfd35649b8443469a74d2b081a411a
+AudioImporter:
+  externalObjects: {}
+  serializedVersion: 6
+  defaultSettings:
+    loadType: 0
+    sampleRateSetting: 0
+    sampleRateOverride: 44100
+    compressionFormat: 1
+    quality: 1
+    conversionMode: 0
+  platformSettingOverrides: {}
+  forceToMono: 0
+  normalize: 1
+  preloadAudioData: 1
+  loadInBackground: 0
+  ambisonic: 0
+  3D: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 169475
+  packageName: Electronic Rock Bundle
+  packageVersion: 1.0
+  assetPath: Assets/Electronic Rock Bundle/3 On The Wave/Mp3/2 On The Wave (Loop).mp3
+  uploadId: 369994

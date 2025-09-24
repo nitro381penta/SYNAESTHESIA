@@ -1,0 +1,30 @@
+fileFormatVersion: 2
+guid: 3daccdfa1a38a9b4d9408a6728f32e41
+AudioImporter:
+  externalObjects: {}
+  serializedVersion: 8
+  defaultSettings:
+    serializedVersion: 2
+    loadType: 0
+    sampleRateSetting: 0
+    sampleRateOverride: 44100
+    compressionFormat: 1
+    quality: 1
+    conversionMode: 0
+    preloadAudioData: 0
+  platformSettingOverrides: {}
+  forceToMono: 0
+  normalize: 1
+  loadInBackground: 0
+  ambisonic: 0
+  3D: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 317364
+  packageName: Fun Happy Beats Vol. 7
+  packageVersion: 1.0
+  assetPath: Assets/Fun Happy Beats Vol. 7/juanjo_sound - glurmph.wav
+  uploadId: 749172
